@@ -22,7 +22,8 @@ All you need to know about the library is defined inside here, even code that I 
 (If that doesn't work, do **python -m pip install -r requirements.txt**)<br>
 `NOTE: Use pip install with Administrator/sudo`
 
-4. Start the bot by having the cmd/terminal inside the bot folder and type **python index.py**
+4. Start the bot by having the cmd/terminal inside the bot folder and type **python3 index.py**
+Attention, if you try to start the bot with **python** and not **python3**, you'll have a syntax error!
 
 5. You're done, enjoy your bot!
 
